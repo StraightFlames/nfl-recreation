@@ -1,0 +1,26 @@
+.bg-dark-blue {
+    background: #001d4f
+}
+.navbar-nav .navlink {
+    color: white;
+}
+
+.navbar-brand {
+    background: yellow;
+}
+.box {
+    color: white;
+    min-height: 150px;
+}
+.bg-black {
+    background: black;
+}
+.bg-grey {
+    background: grey;
+}
+.jumbotron{
+    background: url('https://static.nfl.com/static/content/public/static/img/share/shield.jpg');
+    color: white;
+    background-size: cover;
+    background-position: center;
+}
